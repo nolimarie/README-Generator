@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
     "name": "readme-generator",
   "version": "1.0.0",
@@ -8,41 +7,9 @@
     "test": "test"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^6.3.1"
   },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
-  "bugs": {
-    "url": ""
-  },
-  "homepage": ""
-=======
-{
-    "name": "readme-generator",
-  "version": "1.0.0",
-  "description": "Easily create a professional README",
-  "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "inquirer": "^6.3.1"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
-  "bugs": {
-    "url": ""
-  },
-  "homepage": ""
->>>>>>> 93ddba43dfba0183e21cc08a110fe4d65072f100
+  "repo": "https://github.com/nolimarie/README-Generator.git"
 }
